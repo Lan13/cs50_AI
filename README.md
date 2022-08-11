@@ -1,4 +1,4 @@
 # cs50_AI
-this is cs50's introduction to artificial intelligence with python
+This is cs50's introduction to artificial intelligence with Python. [https://cs50.harvard.edu/ai/2020/]
 
-due to the reason that source codes are provided with frameworks, so I shouldn't make it to public
+Due to the reason that source codes are provided with frameworks, so I shouldn't make it to public.
