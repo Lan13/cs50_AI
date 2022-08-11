@@ -1,6 +1,6 @@
-# Problem in this Project
+# Problem In This Project
 
-In this project you will find that you need to install `punkt` in `nltk_data`. You can try do this:
+In this project you will find that you need to install `punkt` in `nltk_data`. You can try to do like this:
 
 ```bash
 cd ~
