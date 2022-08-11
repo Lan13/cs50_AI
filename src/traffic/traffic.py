@@ -94,7 +94,7 @@ def get_model():
         tf.keras.layers.Flatten(),
 
         # if convolution twice and with a hidden layer, 
-        # the accuracy is 0.9633 with 128 cells, 0.712 with 256 cells
+        # the accuracy is 0.9633 with 128 cells, 0.9712 with 256 cells
         # but 256 will be slower 2ms
         tf.keras.layers.Dense(128, activation="relu"),
         tf.keras.layers.Dropout(0.5),
